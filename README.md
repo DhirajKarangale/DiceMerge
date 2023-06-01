@@ -1,4 +1,2 @@
 # DiceMerge
-This is board android game.
-
-https://github.com/DhirajKarangale/DiceMerge.git
+This is 2D board android game.
